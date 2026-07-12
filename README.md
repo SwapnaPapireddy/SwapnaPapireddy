@@ -75,32 +75,6 @@ Passionate about building intelligent AI applications using **Machine Learning, 
 
 ---
 
-# ⭐ Featured Projects
-
-## 🌾 AgroVision – AI Agriculture Assistant
-
-Built an intelligent **RAG-powered chatbot** that answers agriculture-related queries using **LangChain**, **FAISS**, **Sentence Transformers**, and **LLMs**.
-
-**Tech:** Python • LangChain • FAISS • Hugging Face • Streamlit
-
----
-
-## 📄 AI Resume Matcher & Job Description Skill Extractor
-
-Developed an AI recruitment assistant that automates **resume matching**, **skill extraction**, and **competency gap analysis** using **LangChain** and **Groq LLM**.
-
-**Tech:** Python • LangChain • Groq • Streamlit • Pydantic
-
----
-
-## 💳 Credit Risk Modeling
-
-Designed a machine learning pipeline that predicts **credit risk**, **credit scores**, and **default probability** with an interactive Streamlit interface.
-
-**Tech:** Python • Scikit-learn • Pandas • NumPy • Streamlit
-
----
-
 # 💼 Professional Experience
 
 ### Python Developer Intern
@@ -113,37 +87,7 @@ Designed a machine learning pipeline that predicts **credit risk**, **credit sco
 - Automated text preprocessing and classification.
 - Reduced product search time by **40%**.
 - Worked with Python and Machine Learning models for scalable text classification.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-📧 **Email:** swapnapapireddy3@gmail.com
-
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
-
-🌐 **Portfolio:** YOUR_PORTFOLIO_URL
-
-💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-
+  
 ---
 
 <div align="center">
