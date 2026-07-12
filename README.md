@@ -75,21 +75,6 @@ Passionate about building intelligent AI applications using **Machine Learning, 
 
 ---
 
-# 💼 Professional Experience
-
-### Python Developer Intern
-
-**Xerve Innovation Pvt. Ltd.**
-
-📍 Bengaluru | **May 2025 – Jul 2025**
-
-- Developed an NLP-based product classification system.
-- Automated text preprocessing and classification.
-- Reduced product search time by **40%**.
-- Worked with Python and Machine Learning models for scalable text classification.
-  
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
